@@ -38,3 +38,9 @@ print(a)
 #     # a.append(x)
 #     a.append(x+2)
 # print(a)
+
+
+aa=3
+bb=4
+cc=aa+bb
+print(cc)
