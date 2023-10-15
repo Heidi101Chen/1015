@@ -9,4 +9,4 @@ python run.py
 python google.py
 ```
 
-run ``123`` 
+run ``123`` to run it
